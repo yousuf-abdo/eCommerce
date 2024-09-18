@@ -1,0 +1,150 @@
+{
+    "maint-title":"فريش كارت",
+    "searcInputPlaceholder":"بحث...",
+    "navbar": {
+        "home": "الرئيسية",
+        "product": "المنتجات",
+        "categories": "الفئات",
+        "brands": "العلامات التجارية",
+        "signup": "تسجيل الدخول",
+        "lang": "العربية",
+        "arLang": "عربي",
+        "enLang": "انجليزي",
+        "showprofile": "بروفايلي",
+        "myOrders": "طلباتي السابقة",
+        "logout": "تسجيل خروج"
+    },
+    "home":{
+        "popularCat":"فئات مخصصه لك",
+        "popularPord":"أهم منتجاتنا",
+        "addToCart": "أضف الي السلة"
+    },
+    "brands":{
+        "mainTitle": "العلامات التجارية"
+    },
+    "profileDet":{
+        "mainTitle": "البيانات الشخصية",
+        "name": "الاسم",
+        "namePlaceHolder": "اسم العميل",
+        "email": "الايميل",
+        "emailPlaceholder": "ايميل العميل",
+        "phone": "رقم الهاتف",
+        "phonePlaceholder": "رقم هاتف العميل",
+        "password": "كلمة المرور",
+        "passwordPlaceholder": "كلمة المرور",
+        "showAllProdcuts": "تصفح المنتجات",
+        "logout": "تسجيل خروج",
+        "favLinks": "روابط مهمه",
+        "changePassword": "تغيير كلمة المرور",
+        "showAllBrands": "تصفح العلامات التجارية",
+        "myOrders" :"طلباتي السابقة"
+    },
+    "forgetPassword":{
+        "mainTitle": "تغيير كلمة المرور",
+        "email":"الايميل",
+        "emailPlaceholder": "ادخل الايميل ",
+        "verifyEmailBtn": "تحقق من الايميل",
+        "emailRequired": "يجب ادخال الايميل اولا",
+        "emailInvalid": "اخل ايميل صحيح مثلا (example@test.test)",
+        "resetCode": "أدخل الكود",
+        "codePlaceholder": "أدخل الكود",
+        "codeRequired": "يجب ادخال الكود",
+        "codeInvalid": "الكود غير صحيح",
+        "verifyCodeBtn": "تحقق من الكود",
+        "newPassword": "كلمة المرور",
+        "newPasswordPlaceholder": "ادخل كلمةالمرور الجديدة",
+        "newPasswordInvalid": "ادخل كلمة مرور صحيحة - 6 احرف علي الاقل",
+        "newPasswordRequired" : "يجب ادخال كلمة المرور",
+        "resetPasswordBtn": "تغيير كلمةالمرور"
+    },
+    "login":{
+        "mainTitle": "تسجيل الدخول",
+        "email":"الايميل",
+        "emailPlaceholder": "ادخل الايميل ",
+        "verifyEmailBtn": "تحقق من الايميل",
+        "emailRequired": "يجب ادخال الايميل اولا",
+        "emailInvalid": "اخل ايميل صحيح مثلا (example@test.test)",
+        "Password": "كلمة المرور",
+        "PasswordPlaceholder": "ادخل كلمةالمرور",
+        "PasswordInvalid": "ادخل كلمة مرور صحيحة - 6 احرف علي الاقل",
+        "PasswordRequired" : "يجب ادخال كلمة المرور",
+        "forgetPassword" : "نسيت كلمة المرور",
+        "createAccount" : "أنشئ حساب جديد",
+        "logindBtn": "تسجيل الدخول"
+    },
+    "register":{
+        "mainTitle": "البيانات الشخصية",
+        "name": "الاسم",
+        "namePlaceHolder": "الاسم",
+        "email": "الايميل",
+        "emailPlaceholder": "ايميل العميل",
+        "emailRequired": "يجب ادخال الايميل",
+        "emailInvalid": "اخل ايميل صحيح مثلا (example@test.test)",
+        "phone": "رقم الهاتف",
+        "phonePlaceholder": "رقم هاتف العميل",
+        "phoneRequired": "يجب ادخال رقم الهاتف ",
+        "phoneInvalid": "اخل رقم هاتف صحيح مثلا (01123456789)",
+        "password": "كلمة المرور",
+        "passwordPlaceholder": "كلمة المرور",
+        "PasswordInvalid": "ادخل كلمة مرور صحيحة - 6 احرف علي الاقل",
+        "PasswordRequired" : "يجب ادخال كلمة المرور",
+        "rePassword": "تاكيد كلمةالمرور",
+        "rePasswordPlaceholder": "تاكيد كلمةالمرور",
+        "rePasswordInvalid" : "يجب ادخال كلمة مرور مطابقة",
+        "registerBtn": "انشئ الحساب"
+    },
+    "cart":{
+        "mainTitle": "سلة المشتريات",
+        "displayTotal": "اجمالي سعر السلة",
+        "clearCartBtn" : "حذف الكل",
+        "orderBtn" : "طلب المنتجات",
+        "priceKeyword" : "السعر "
+    },    
+    "shippingAddress":{
+        "mainTitle": "تفاصيل العنوان",
+        "phone": "رقم الهاتف",
+        "phonePlaceholder": "رقم هاتف العميل",
+        "city": "المدينة",
+        "cityPlaceholder": "ادخل المدينة",
+        "details": "تفاصيل العنوان",
+        "detailsPlaceholder": "ادخل تفاصيل العنوان",
+        "checkoutBtn" : "تاكيد الدفع"
+    },
+    "wishlist":{
+        "mainTitle": "مفضلتي",
+        "displayQuantity": "اجمالي عدد المنتجات",
+        "addToCartBtn" : "أضف الي السلة",
+        "priceKeyword" : "السعر "
+    },
+    "productDet":{
+        "mainTitle" : "تفاصيل المنتج",
+        "addToCart" : "أضف الي السلة",
+        "prodctPrice" : "سعر المنتج",
+        "productCat" : "فئة المنتج",
+        "productRate" : "تقييم المنتج"
+    },
+    "allOrders":{
+        "mainTitle" : "طلباتي السابقة",
+        "productAreaTitle" : "المنتجات",
+        "productPrice" : "سعر المنتج",
+        "productQuantity" : "الكمية المطلوبة",
+        "orderStatus" : "حالة الطلب",
+        "paymentMethod" : "طريقة الدفع",
+        "totalPrice" : "اجمالي الفاتورة",
+        "shippingAddress" : "معلومات التوصيل",
+        "paidAt" : "تاريخ الدفع",
+        "createdAt" : "تاريخ الطلب"
+    },
+    "noDataSection" :{
+        "mainTitle" : "لا يوجد منتجات لعرضها",
+        "text" : "لا توجد منتجات لعرضها , يمكنك الانتقال الي المنتجات لاضافة منتج الي السلة",
+        "btnAddProduct" : "أضف منتج الي السلة"
+    },
+    "footer" :{
+        "aboutUs": "عن المتجر",
+        "contact": "تواصل معنا",
+        "followUs": "تباعنا",
+        "email": "الايميل",
+        "phone": "الهاتف"
+    }
+}

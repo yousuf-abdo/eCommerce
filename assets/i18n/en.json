@@ -1,0 +1,151 @@
+{
+    "maint-title":" fresh cart",
+    "searcInputPlaceholder":"Search...",
+    "navbar":{
+        "home":"Home",
+        "product": "Products",
+        "categories": "Categories",
+        "brands": "Brands",
+        "signup": "Register",
+        "lang": "English",
+        "arLang": "AR",
+        "enLang": "EN",
+        "showprofile": "Show Profile",
+        "myOrders": "My Orders",
+        "logout": "Log Out"
+    },
+    "home":{
+        "popularCat":"Popular Categories",
+        "popularPord":"Popular Products",
+        "addToCart": "Add To Cart"
+    },
+    "brands":{
+        "mainTitle": "All Brands"
+    },
+    "profileDet":{
+        "mainTitle": "My Profile",
+        "name": "Name",
+        "namePlaceHolder": "Customer Name",
+        "email": "E-mail",
+        "emailPlaceholder": "Customer E-mail",
+        "phone": "Phone",
+        "phonePlaceholder": "Customer Phone",
+        "password": "Password",
+        "passwordPlaceholder": "Customer Password",
+        "showAllProdcuts": "Got to Products",
+        "logout": "Log Out",
+        "favLinks": "Favorit Links",
+        "changePassword": "Change Password",
+        "showAllBrands": "Go To Brands",
+        "myOrders" : "My Orders"
+    },
+    "forgetPassword":{
+        "mainTitle": "Reset password",
+        "email":"E-mail",
+        "emailPlaceholder": "Enter Your E-mail",
+        "verifyEmailBtn": "Verify Email",
+        "emailRequired": "E-mail is Required",
+        "emailInvalid": "Enter Valid E-mail Like (example@test.test)",
+        "resetCode": "Enter The Code",
+        "codePlaceholder": "Enter The Code",
+        "codeRequired": "The Code is Required",
+        "codeInvalid": "Invalid Code",
+        "verifyCodeBtn": "Verify Email",
+        "newPassword": "Password",
+        "newPasswordPlaceholder": "Enter New Password", 
+        "newPasswordInvalid": "Enter Valid Password at least 6 digits",
+        "newPasswordRequired" : "The Password is Required",
+        "resetPasswordBtn" : "Save New Password"
+    },
+    "login":{
+        "mainTitle": "Login",
+        "email":"E-mail",
+        "emailPlaceholder": "Enter Your E-mail",
+        "verifyEmailBtn": "Verify Email",
+        "emailRequired": "E-mail is Required",
+        "emailInvalid": "Enter Valid E-mail Like (example@test.test)",
+        "Password": "Password",
+        "PasswordPlaceholder": "Enter Password", 
+        "PasswordInvalid": "Enter Valid Password at least 6 digits",
+        "PasswordRequired" : "The Password is Required",
+        "forgetPassword" : "Forget Password",
+        "createAccount" : "Create new Account",
+        "logindBtn" : "Login"
+    },
+    "register":{
+        "mainTitle": "Create New Account",
+        "name": "Name",
+        "namePlaceHolder": "Enter Your Name",
+        "email": "E-mail",
+        "emailPlaceholder": "Enter E-mail",
+        "emailRequired": "E-mail is Required",
+        "emailInvalid": "Enter Valid E-mail Like (example@test.test)",
+        "phone": "Phone",
+        "phonePlaceholder": "Enter Phone",
+        "phoneRequired": "Phone is Required",
+        "phoneInvalid": "Enter Valid Phone Like (01123456789)",
+        "password": "Password",
+        "passwordPlaceholder": "Enter Password",
+        "rePassword": "Re Password",
+        "PasswordInvalid": "Enter Valid Password at least 6 digits",
+        "PasswordRequired" : "The Password is Required",
+        "rePasswordPlaceholder": "Enter Password again",
+        "rePasswordInvalid": "Passsword and Repassword must be same",
+        "registerBtn": "Create Account"
+    },
+    "cart":{
+        "mainTitle": "Shop cart",
+        "displayTotal": "Total Cart Price ",
+        "clearCartBtn" : "Clear Cart",
+        "orderBtn" : "Order",
+        "priceKeyword" : "Price"
+    },    
+    "shippingAddress":{
+        "mainTitle": "Shipping Address",
+        "Phone": "Phone",
+        "phonePlaceholder": "Enter Phone",
+        "city": "City",
+        "cityPlaceholder": "Enter City",
+        "details": "Details",
+        "detailsPlaceholder": "Enter Details",
+        "checkoutBtn" : "Check Out"
+    },
+    "wishlist":{
+        "mainTitle": "My Wishlist",
+        "displayQuantity": "Count Of Products ",
+        "addToCartBtn" : "Add To Cart",
+        "priceKeyword" : "Price"
+    },
+    "productDet":{
+        "mainTitle" : "Product Details",
+        "addToCart" : "Add To Cart",
+        "prodctPrice" : "Prodct Price",
+        "productCat" : "product Category",
+        "productRate" : "product Rate"
+
+    },
+    "allOrders":{
+        "mainTitle" : "My Orders",
+        "productAreaTitle" : "Products",
+        "productPrice" : "Prodct Price",
+        "productQuantity" : "Product Quantity",
+        "orderStatus" : "Order Status",
+        "paymentMethod" : "Payment Method",
+        "totalPrice" : "Total Price",
+        "shippingAddress" : "Shipping Address",
+        "paidAt" : "Paid At",
+        "createdAt" : "Created At"
+    },
+    "noDataSection" :{
+        "mainTitle" : "Your Order list is empty",
+        "text" : "There is currently nothing in your Order list. Head to the home page to add items.",
+        "btnAddProduct" : "Add Product"
+    },
+    "footer" :{
+        "aboutUs": "About Us",
+        "contact": "Contact",
+        "followUs": "Follow Us",
+        "email": "Email",
+        "phone": "Phone"
+    }
+}
